@@ -1,0 +1,16 @@
+.Footer {
+  color: var(--cinza);
+  background-color: var(--preto);
+  font-size: 1.3rem;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+
+.Footer h4 {
+  font-weight: 100;
+  font-size: 0.9rem;
+  text-align: center;
+}
